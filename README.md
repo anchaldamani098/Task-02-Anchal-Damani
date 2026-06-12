@@ -96,5 +96,9 @@ The dataset includes the following key fields:
 - Provide actionable insights into **sales and customer behavior**.  
 - Demonstrate how raw data can be transformed into **one interactive dashboard** for decision‑making.  
 
-   ```bash
-   git clone https://github.com/yourusername/Data-Analytics-EDA-P2.git
+
+
+
+
+
+
