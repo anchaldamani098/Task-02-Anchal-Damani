@@ -47,23 +47,23 @@ The dataset includes the following key fields:
 
 ##  Screenshots
 
-- Raw Data Preview  
+- **Raw Data Preview**  
   <img width="1192" height="963" alt="Screenshot 2026-06-13 005212" src="https://github.com/user-attachments/assets/4099d81c-5c6c-48af-a677-3cf7bc455f45" />
 
 
-- Cleaned Data Preview  
+- **Cleaned Data Preview**  
   <img width="1725" height="957" alt="Screenshot 2026-06-13 005241" src="https://github.com/user-attachments/assets/c0dc71fa-ebfc-48c8-921f-34e54847a16a" />
 
 
-- Pivot Analysis 
+- **Pivot Analysis** 
   <img width="1056" height="962" alt="Screenshot 2026-06-13 005539" src="https://github.com/user-attachments/assets/f30992dd-b439-45d4-b464-e906a82b43f8" />
 
 
-- Order Analytics Dashboard
+- **Order Analytics Dashboard**
   <img width="1535" height="955" alt="Screenshot 2026-06-13 005431" src="https://github.com/user-attachments/assets/c83f7f2a-edfb-4f37-9e42-8130d1e8bfab" />
 
 
-- Insights Summary
+- **Insights Summary**
   <img width="995" height="957" alt="Screenshot 2026-06-13 005452" src="https://github.com/user-attachments/assets/c62f0e94-2348-4bf3-af36-2a0063b22bad" />
 
   
