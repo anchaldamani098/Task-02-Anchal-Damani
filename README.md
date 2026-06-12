@@ -57,6 +57,11 @@ The dataset includes the following key fields:
   <img width="1725" height="957" alt="Screenshot 2026-06-13 005241" src="https://github.com/user-attachments/assets/c0dc71fa-ebfc-48c8-921f-34e54847a16a" />
 
 
+- **Stats_Analysis**
+
+  <img width="767" height="607" alt="Screenshot 2026-06-13 011045" src="https://github.com/user-attachments/assets/ea1ba354-ce01-4ecf-924b-e85caf41d93b" />
+ 
+
 - **Pivot Analysis**
 - 
   <img width="1056" height="962" alt="Screenshot 2026-06-13 005539" src="https://github.com/user-attachments/assets/f30992dd-b439-45d4-b464-e906a82b43f8" />
